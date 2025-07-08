@@ -97,6 +97,7 @@ Once logged in, open PowerShell.
 ![image](https://github.com/user-attachments/assets/2c6b14e8-af37-421a-9429-2800f58e3fe4)
 
 Type the command "ping", enter the private IP address of the Domain Controller (locate it again if needed), and monitor the result; a successful ping will look as such:
+
 ![image](https://github.com/user-attachments/assets/9613fb2c-57af-413a-b463-0d9fdcf493d8)
 
 Type the command "ipconfig /all" and check to be sure that the DNS settings output is the Domain Controller's private IP address.
